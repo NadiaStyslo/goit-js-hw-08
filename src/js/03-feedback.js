@@ -31,3 +31,4 @@ function onFeedbackSubmit(evt) {
     evt.currentTarget.reset();          
 };
 
+console.log(form)
